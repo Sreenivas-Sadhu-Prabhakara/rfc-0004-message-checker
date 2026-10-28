@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sreenivas-sadhu-prabhakara.github.io/rfc-0004-message-checker/sitemap.xml

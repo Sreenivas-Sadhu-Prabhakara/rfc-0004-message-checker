@@ -1,0 +1,13 @@
+{
+  "name": "rfc-0004-message-checker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Compare sent and received messages to spot missing, changed, repeated or reordered messages in a small trace.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
